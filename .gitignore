@@ -1,3 +1,12 @@
+# .gitignore for Claude Code Bootstrap
+# did-original-source: did:repo:4a603bb686e1aa84f6793b1a0d5a2e0aad195893
+# github-original-source: https://github.com/ChristopherA/Claude-Code-Bootstrap/blob/main/.gitignore
+# purpose: Exclude common generated files, secrets, and project-specific directories
+# copyright: ©2025 by Christopher Allen, licensed under the BSD 2-Clause Plus Patent License
+# status: ACTIVE
+# created: 2025-03-10 by Christopher Allen <ChristopherA@LifeWithAlacrity.com>
+# last-updated: 2025-03-10 by Christopher Allen <ChristopherA@LifeWithAlacrity.com>
+
 # Compiled output
 /dist
 /build
